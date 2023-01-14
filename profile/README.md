@@ -2,7 +2,7 @@
 
 We are a community of Acorn computer enthusiasts and this Github organisation aims to preserve and maintain Acorn computer related projects. 
 
-- Do visit the [stardot forums](https://stardot.org.uk/forums/) for more information from our very friendly and helpful community.
+- Visit the [stardot forums](https://stardot.org.uk/forums/) for more information from our very friendly and helpful community.
 - You can request access to become a contributor [here](https://stardot.org.uk/forums/viewtopic.php?p=154942#p154942).
 - Introduction to Github [here](https://stardot.org.uk/forums/viewtopic.php?f=55&t=15700)
 
